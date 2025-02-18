@@ -120,7 +120,7 @@ Models were fine-tuned using:
 ## Citations 📖
 
 ```bibtex
-@software{gemma2_swahili,
+@software{Gemma 2 swahili,
   title = {Gemma 2 Swahili: State-of-the-art Swahili Variations of Gemma Models},
   author = {Eyembe, Alfaxad and Mtenga, Mrina},
   year = {2025},
