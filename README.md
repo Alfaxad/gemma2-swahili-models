@@ -34,7 +34,7 @@ Gemma 2 Swahili is a comprehensive suite of language models specifically adapted
 |-------|-----------|-----------|-------------|
 | 2B-IT | 34.17% (+19.17) | 66.50% (+17.50) | 0.3735 BLEU-1 |
 | 9B-IT | 55.83% (+12.50) | 86.50% (+3.08) | 0.4709 BLEU-1 |
-| 27B-IT | 54.17% (+34.17) | 88.50% (+1.00) | 0.4994 BLEU-1 |
+| 27B-IT (4-bit) | 54.17% (+34.17) | 88.50% (+1.00) | 0.4994 BLEU-1 |
 
 ## Quick Start 🚀
 
