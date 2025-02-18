@@ -51,7 +51,7 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 # Load model and tokenizer
-model_path = "gemma2-swahili/gemma2-2b-swahili-it"
+model_path = "Alfaxad/gemma2-2b-swahili-it"
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForCausalLM.from_pretrained(
     model_path,
@@ -121,7 +121,7 @@ Models were fine-tuned using:
 
 ```bibtex
 @software{gemma2_swahili,
-  title = {Gemma 2 Swahili: Efficient Adaptation of Large Language Models},
+  title = {Gemma 2 Swahili: State-of-the-art Swahili Variations of Gemma Models},
   author = {Eyembe, Alfaxad and Mtenga, Mrina},
   year = {2025},
   publisher = {GitHub},
