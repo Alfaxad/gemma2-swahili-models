@@ -16,7 +16,7 @@ Gemma 2 Swahili is a comprehensive suite of language models specifically adapted
 | Gemma2-2B-Swahili-Preview | 2B | Base | ~4GB | [HF](https://huggingface.co/Alfaxad/gemma2-2b-swahili-preview) \| [Kaggle](https://www.kaggle.com/models/alfaxadeyembe/gemma-2-swahili/transformers/gemma2-2b-swahili-preview) |
 | Gemma2-2B-Swahili-IT | 2B | Instruction-tuned | ~4GB | [HF](https://huggingface.co/Alfaxad/gemma2-2b-swahili-it) \| [Kaggle](https://www.kaggle.com/models/alfaxadeyembe/gemma-2-swahili/transformers/gemma2-2b-swahili-it) |
 | Gemma2-9B-Swahili-IT | 9B | Instruction-tuned | ~18GB | [HF](https://huggingface.co/Alfaxad/gemma2-9b-swahili-it) \| [Kaggle](https://www.kaggle.com/models/alfaxadeyembe/gemma-2-swahili/transformers/gemma2-9b-swahili-it) |
-| Gemma2-27B-Swahili-IT(4-bit) | 27B | Instruction-tuned | ~54GB | [HF](https://huggingface.co/Alfaxad/gemma2-27b-swahili-it) \| [Kaggle](https://www.kaggle.com/models/alfaxadeyembe/gemma-2-swahili/transformers/gemma2-27b-swahili-it) |
+| Gemma2-27B-Swahili-IT (4-bit) | 27B | Instruction-tuned | ~54GB | [HF](https://huggingface.co/Alfaxad/gemma2-27b-swahili-it) \| [Kaggle](https://www.kaggle.com/models/alfaxadeyembe/gemma-2-swahili/transformers/gemma2-27b-swahili-it) |
 
 ## Features ✨
 
